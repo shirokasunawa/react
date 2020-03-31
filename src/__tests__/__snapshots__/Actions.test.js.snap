@@ -1,0 +1,8 @@
+exports[`action creators creates ADD_X when add was successful 1`] = `
+Array [
+  Object {
+    "payload": 15,
+    "type": "ADD_X",
+  },
+]
+`;
